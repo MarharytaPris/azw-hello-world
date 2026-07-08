@@ -1,0 +1,14 @@
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.exe
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.deps.json
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.runtimeconfig.json
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.dll
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.dll
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\refint\HelloWorldApp.dll
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\marharyta.pris\Documents\Modul210\Aufg_Pruef\TeilD\HelloWorldApp\obj\Debug\net9.0\ref\HelloWorldApp.dll
